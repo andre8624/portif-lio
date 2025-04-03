@@ -86,13 +86,7 @@ header {
     color: #ffffff;
     margin-left: 10px;
 }
-.port{ 
-    margin-left: -100px; 
-    color: rgb(241, 123, 45); 
-    font-size: 30px; 
-    cursor: pointer; 
-    padding-right: 50px;
-}
+
 nav {
     padding: 10px;
     text-align: center;
